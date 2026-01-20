@@ -1,0 +1,7 @@
+fastapi==0.103.2    
+uvicorn==0.22.0
+python-dotenv==0.21.1
+langchain-chroma
+langchain_openai
+langchain_text_splitters
+google-genai
